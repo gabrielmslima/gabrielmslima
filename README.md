@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Pode me chamar de Gabriel Nunes</h1>
-<h3 align="center">Um DEV estudante proativo brasileiro!</h3>
+<h3 align="center">Um DEV, estudante proativo!</h3>
 
 - 🔭 Atualmente trabalhando em **Projetos Escolares**
 
