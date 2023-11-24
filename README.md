@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando em **Projetos Escolares**
 
-- 🌱 Estou atualmente aprendendo **Bootstrap, Css, Html, Js, Python and more**
+- 🌱 Estou atualmente aprendendo **Bootstrap, Css, Html, Js, Python entre outros**
 
 - 📫 Como me contatar **[Linkedin](https://www.linkedin.com/in/gabriel-nunes-6bb365297/)**
 
