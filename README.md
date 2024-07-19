@@ -6,7 +6,7 @@
 - 📫 Reach me on my **[email](gabrielnunesinfor@gmail.com)**
 
 <div id="header" align="center">
-  [![Profile(https://avatars.githubusercontent.com/u/140721470?v=4)](https://github.com/gabrielmslima)
+  [![Profile](https://avatars.githubusercontent.com/u/140721470?v=4)](https://github.com/gabrielmslima)
 </div>
 
 ## Projects ❄️
