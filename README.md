@@ -12,8 +12,8 @@
 ## Projects ❄️
 
 <a href="https://github.com/gabrielmslima/dotfiles-i3">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmslima&repo=dotfiles-i3&theme=aura)</a>
-<a href="https://github.com/gabrielmslima/diabetes-mobile">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmslima&repo=diabetes-mobile&theme=aura)</a>
 <a href="https://github.com/gabrielmslima/py-wheater-cli">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmslima&repo=py-wheater-cli&theme=aura)</a>
+<a href="https://github.com/gabrielmslima/diabetes-mobile">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmslima&repo=diabetes-mobile&theme=aura)</a>
 
 ## Stats ⚡
 
