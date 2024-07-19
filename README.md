@@ -1,8 +1,9 @@
-<p align=center> Hello, world ✨
-
 <div id="header" align="center">
-  <img src="https://imgur.com/53wJR6f.png"/>
+  <img src="https://imgur.com/D9z3IqQ.png"/>
 </div>
+
+### Hello, world ✨
+> My name is Gabriel, I am 17 years old (born in 2007). I am currently in the third and final semester of the Systems Development course at ETEC de Sapopemba. My professional goal is to pursue and excel in the field of software development.
 
 ## Projects ❄️
 
